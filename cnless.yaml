@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,aliyun
   - DOMAIN-KEYWORD,baidu
   - DOMAIN-KEYWORD,beplay
+  - DOMAIN-KEYWORD,zhibo8
   - DOMAIN-SUFFIX,zhibo8.cc
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,zijiecdn.com
