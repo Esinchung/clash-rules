@@ -2,7 +2,7 @@
 # DOMAIN: 23
 
 payload:
-  - DOMAIN,nodeseek.com
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN,sing-box.sagernet.org
   - DOMAIN,addons.mozilla.org
   - DOMAIN,amp-api.podcasts.apple.com
