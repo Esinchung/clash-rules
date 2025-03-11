@@ -238,6 +238,8 @@ payload:
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,extmatrix.com
   - DOMAIN-SUFFIX,eyny.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,term.wtf
   - DOMAIN-SUFFIX,f8.com
   - DOMAIN-SUFFIX,fanatical.com
   - DOMAIN-SUFFIX,fanbox.cc
